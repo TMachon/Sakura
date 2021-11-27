@@ -1,0 +1,7 @@
+{
+  "name": "Menu Sakura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

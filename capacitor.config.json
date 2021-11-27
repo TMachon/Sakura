@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Menu Sakura",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
